@@ -31,7 +31,7 @@ Este projeto implementa estritamente os seguintes conceitos:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/sistema-gestao-academica.git](https://github.com/seu-usuario/sistema-gestao-academica.git)
+   git clone [https://github.com/Xandeco145/Sistema_de_Gestao_Academica.git](https://github.com/Xandeco145/Sistema_de_Gestao_Academica.git)
 2. Abra o projeto na sua IDE de preferência.
 
 3. Navegue até o pacote principal e execute o arquivo Main.java.
